@@ -1,0 +1,6 @@
+PUT http://127.0.0.1:8000/api/test/2
+Content-Type: multipart/form-data
+
+
+before_bank=@file1.pdf
+after_bank=@file2.pdf
